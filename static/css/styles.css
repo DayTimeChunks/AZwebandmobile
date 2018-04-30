@@ -1,0 +1,29 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  /* height: 100%;
+  position: relative; */
+}
+
+.bg-darkgrey{
+  background-color: #3d3e42
+}
+
+.text-dark-blue{
+  color: #000080
+}
+.text-black{
+  color: black
+}
+ul{
+    list-style-type: none;
+    /* border: 1px solid green; */
+    padding-left:0;
+
+}
+.user-description {
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: 200;
+  margin-bottom: 25px;
+}
